@@ -169,6 +169,18 @@ _**Catatan:**_
 
 #
 
+🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
+
+# 🏁 Challenge - Data Science Fundamental
+
+![challenge](./challenge.png)
+
+Buatlah sebuah file spreadsheet/excel (__.xlsx__) yang pada sel __A1:C3__ berisi angka seperti pada ilustrasi di atas. Tugas Anda, secara berkelompok & bergantian (__*@2 menit*__), buatlah sebuah file python (__.py__) yang dapat membaca file excel tersebut, kemudian menyimpannya kembali di sheet 2, 3 & 4 pada file yang sama, namun dengan konfigurasi angka yang berbeda. Perhatikan ilustrasi di atas 👆
+
+#
+
+🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
+
 ### *__#HappyCoding__* :relaxed:
 
 #### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_
