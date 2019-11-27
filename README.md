@@ -183,15 +183,59 @@ Buatlah sebuah file spreadsheet/excel (__.xlsx__) yang pada sel __A1:C3__ berisi
 
 # Remedial Ujian Python Data Science Fundamental
 
-### **Soal 1 - aaaa **
+### **Soal 1 - 📆 Tahun Kabisat**
 
-Diketahui:
+__*Tahun kabisat*__ merupakan tahun yang mengalami penambahan satu hari dengan tujuan untuk menyesuaikan penanggalan dengan tahun astronomi. Dalam satu tahun tidak secara persis terdiri dari 365 hari, tetapi __*365 hari 5 jam 48 menit 45,1814 detik*__. Jika hal ini tidak dihiraukan, maka setiap empat tahun akan kekurangan hampir 1 hari. Maka untuk mengkompensasi hal ini, setiap 4 tahun sekali, diberi 1 hari ekstra: __29 Februari__. 
+
+Buatlah sebuah file python interaktif (__*.py*__) berisi sebuah **_function_** yang dapat menentukan suatu input dari user tergolong tahun kabisat atau tidak. Saat file dieksekusi, user diminta memasukkan angka tahun tertentu, kemudian akan muncul hasil yang menyatakan input user tersebut tergolong tahun kabisat atau tidak. Contoh hasil yang diharapkan:
+
+```bash
+Input tahun : 2019
+Hasil : BUKAN TAHUN KABISAT
+
+Input tahun : 2020
+Hasil : TAHUN KABISAT
+```
+
+✅ Commit & push source code jawaban soal ini ke __Github__ Anda, buatlah repo dengan nama __Remedial_Tahun_Kabisat__, kemudian lampirkan __url link repo Github__ Anda via email ke _lintang@purwadhika.com!_
 
 #
 
-### **Soal 2 - aaaa **
+### **Soal 2 - 📧 Alamat Email**
 
-Diketahui:
+Buatlah sebuah file python interaktif (__*.py*__) berisi sebuah **_function_** yang dapat menentukan suatu input dari user tergolong alamat email yang valid atau tidak. Adapun kriteria alamat email yang valid adalah sebagai berikut:
+
+- Memiliki format: __*namaUser@namaHosting.ekstensi*__
+- __*namaUser*__ hanya boleh terdiri atas huruf, angka, dash ('-') dan underscore ('_').
+- __*namaHosting*__ hanya boleh terdiri atas huruf dan angka.
+- __*ekstensi*__ hanya boleh terdiri atas huruf, dengan maksimum 5 karakter.
+
+__Contoh__:
+
+- ✅ Alamat email __*valid*__:
+    - __lintangwisesa@ymail.com__
+    - __lintang@purwadhika.com__
+    - __lintang123@ironman123.space__
+
+- ❌ Alamat email __*tidak valid*__:
+    - __l/nt*ngw:s=s!@ym~il.com__
+    - __lintang@purwadhika.community__
+    - __lintang123@ironman123__
+
+Saat file dieksekusi, user diminta memasukkan alamat email, kemudian akan muncul hasil yang menyatakan email user valid atau tidak. Contoh hasil yang diharapkan:
+
+```bash
+Input email : lintang@purwadhika.com
+Hasil : EMAIL VALID
+
+Input email : lintang123@ironman123.space
+Hasil : EMAIL VALID
+
+Input email : captain@l*nt*ng.id
+Hasil : EMAIL TIDAK VALID
+```
+
+✅ Commit & push source code jawaban soal ini ke __Github__ Anda, buatlah repo dengan nama __Remedial_Alamat_Email__, kemudian lampirkan __url link repo Github__ Anda via email ke _lintang@purwadhika.com!_
 
 ### *__#HappyCoding__* :relaxed:
 
