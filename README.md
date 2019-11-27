@@ -181,6 +181,18 @@ Buatlah sebuah file spreadsheet/excel (__.xlsx__) yang pada sel __A1:C3__ berisi
 
 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
 
+# Remedial Ujian Python Data Science Fundamental
+
+### **Soal 1 - aaaa **
+
+Diketahui:
+
+#
+
+### **Soal 2 - aaaa **
+
+Diketahui:
+
 ### *__#HappyCoding__* :relaxed:
 
 #### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_
